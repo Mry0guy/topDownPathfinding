@@ -1,0 +1,11 @@
+tab - toggle between level editor and path finding
+
+level editor:
+    left mouse - place walls
+    right mouse - destroy walls
+
+path finding:
+    left mouse - choose end
+    right mouse - choose start
+    space - start search
+    left shift - clear path
